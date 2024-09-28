@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @who-icyy
-- 👀 I’m interested in FullStack
+- 👀 I’m interested in Android
 - 🌱 I’m currently learning RUST
 <!---
 who-icyy/who-icyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
