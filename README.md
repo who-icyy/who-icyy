@@ -24,12 +24,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-purple?style=for-the-badge&logo=jetpack-compose)
 
+### 💻 Operating Systems:
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=arch-linux)
+
 ### 📝 Current Projects:
 - **Crab Get** – A `wget` clone using Rust
 - **Password Manager** – Built from scratch with Rust
 - **Exifrs** – A Rust-based **Exiftools** clone
 
 ### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-contact%40whoicyy.com-blue?style=for-the-badge&logo=gmail)](mailto:contact@whoicyy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/who-icyy)
-
+[![Email](https://img.shields.io/badge/Email-contact%40whoicyy.com-blue?style=for-the-badge&logo=gmail)](mailto:sonusid1325@gmail.com)
