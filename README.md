@@ -24,6 +24,5 @@
 - **Blockchain App** – Simple and elegant blockchain in Rust
 
 ### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-contact%40whoicyy.com-blue?style=for-the-badge&logo=gmail)](mailto:contact@whoicyy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/who-icyy)
+[![Email](https://img.shields.io/badge/Email-contact%40whoicyy.com-blue?style=for-the-badge&logo=gmail)](mailto:sonisid1325@gmail.com)
 
