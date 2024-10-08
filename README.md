@@ -1,7 +1,7 @@
 # ❄️ I’m @who-icyy
 
 ### 🚀 About Me
-- 💻 I’m passionate about **Command Line Tools**
+- 💻 I’m passionate about **Command Line Tools** **Android**
 - 🌱 Currently mastering **Rust**
 - 💡 I have experience with **JavaScript, Dart, Python, and Kotlin**
 - 🔐 Building innovative projects like a **Password Manager** and **Exifrs** in Rust
