@@ -5,9 +5,9 @@
 - 🌱 Currently mastering **Rust**
 - 💡 I have experience with **JavaScript, Dart, Python, and Kotlin**
 - 🔐 Building innovative projects like a **Password Manager** and **Exifrs** in Rust
-- 🎧 Created **Groove**, an app to stream ad-free YouTube music using **Kotlin**
+- 🎧 Created **Groovy**, an app to stream ad-free YouTube music using **Kotlin**
 - 🧰 Crafted a **Discord Bot** with **Node.js**
-- 🦀 Developing **Crab Get** – a Rust-based clone of `wget`, diving into the dark web
+- 🦀 Developing **Crab Get** – a Rust-based clone of `wget`.
 
 ### 🛠️ Languages & Tools:
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
@@ -29,7 +29,6 @@
 
 ### 📝 Current Projects:
 - **Crab Get** – A `wget` clone using Rust
-- **Password Manager** – Built from scratch with Rust
 - **Exifrs** – A Rust-based **Exiftools** clone
 
 ### 📫 How to reach me:
