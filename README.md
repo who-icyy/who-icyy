@@ -1,6 +1,6 @@
 # ❄️ **I’m @who-icyy**  
 
-[![Code GIF](https://media.giphy.com/media/26tPovYc5fZViFsoTj/giphy.gif)](https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=790b76115t9aden9eokkli7612ouci904xk9l8wzcy1g0t32&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
+![Code GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 **"The best way to predict the future is to code it."**  
 *GIF: A seamless loop of code flowing on the screen*
 
@@ -22,8 +22,6 @@ React · Next.js · Flutter · Jetpack Compose
 **Operating System:**  
 Arch Linux, my playground for innovation  
 
-[![Rust Animation](https://media.giphy.com/media/26tPovYc5fZViFsoTj/giphy.gif) ](https://media.giphy.com/media/S3thLnRWEpRwq6iDIO/giphy.gif?cid=790b76119lp724nvnqg7uuaf4qqtk31gbxn91i4aqzgarqyc&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
-*GIF: Animated Rust logo, representing your mastery of Rust*
 
 ### 📫 **Reach Out:**  
 [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)
