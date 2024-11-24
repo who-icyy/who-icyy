@@ -1,6 +1,6 @@
 # ❄️ **I’m @who-icyy**  
 
-![Code GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
+![Code GIF](https://media.giphy.com/media/26tPovYc5fZViFsoTj/giphy.gif)  
 **"The best way to predict the future is to code it."**  
 *GIF: A seamless loop of code flowing on the screen*
 
@@ -22,7 +22,7 @@ React · Next.js · Flutter · Jetpack Compose
 **Operating System:**  
 Arch Linux, my playground for innovation  
 
-![Rust Animation](https://media.giphy.com/media/26FL2gX02yGT0XgYc/giphy.gif)  
+![Rust Animation](https://media.giphy.com/media/26tPovYc5fZViFsoTj/giphy.gif)  
 *GIF: Animated Rust logo, representing your mastery of Rust*
 
 ### 📫 **Reach Out:**  
