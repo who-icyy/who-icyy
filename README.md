@@ -1,15 +1,18 @@
-# ❄️ I’m @who-icyy  
+# ❄️ **I’m @who-icyy**  
 
+![Code GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 **"The best way to predict the future is to code it."**  
+*GIF: A seamless loop of code flowing on the screen*
 
-### 🚀 About Me  
-💻 Passionate about **Command Line Tools** and **Android Development**  
-🦀 Mastering **Rust**, with experience in **JavaScript, Dart, Python, and Kotlin**  
-🔐 Currently building:  
-- **Crab Get** – A Rust-based `wget` clone  
-- **Exifrs** – A Rust-based **Exiftools** clone  
+### 🚀 **About Me**  
+💻 **Command Line Tools Enthusiast** & **Android Development Aficionado**  
+🦀 On a journey to **master Rust** and create powerful software with it  
+🛠️ Skilled in **JavaScript, Dart, Python,** and **Kotlin**, blending efficiency with creativity  
+🔐 **Current Projects:**  
+- **Crab Get** – A lightning-fast Rust-based `wget` clone  
+- **Exifrs** – A Rust-powered **Exiftools** alternative  
 
-### 🛠️ Tech Stack  
+### 🛠️ **Tech Stack**  
 **Languages:**  
 Rust · Kotlin · Python · Dart · JavaScript  
 
@@ -17,6 +20,10 @@ Rust · Kotlin · Python · Dart · JavaScript
 React · Next.js · Flutter · Jetpack Compose  
 
 **Operating System:**  
-Arch Linux  
+Arch Linux, my playground for innovation  
 
-📫 **Contact:** [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)  
+![Rust Animation](https://media.giphy.com/media/26FL2gX02yGT0XgYc/giphy.gif)  
+*GIF: Animated Rust logo, representing your mastery of Rust*
+
+### 📫 **Reach Out:**  
+[sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)
