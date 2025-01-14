@@ -1,4 +1,4 @@
-# ❄️ **I’m @who-icyy**  
+# ❄️ **I’m icyy**  
 
 ![Code GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 **"The best way to predict the future is to code it."**  
