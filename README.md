@@ -8,7 +8,7 @@
 
 ## 🖐️ About Me  
 **Hello! I'm ソヌ (SONU)**, a passionate **Developer** with a knack for crafting intuitive and efficient apps.  
-🌟 **Username**: [sonusid1325](https://github.com/sonusid1325)  
+🌟 **Username**: [who-icyy](https://github.com/who-icyy)  
 
 ---
 
